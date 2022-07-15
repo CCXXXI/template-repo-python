@@ -6,6 +6,7 @@
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/CCXXXI/template-repo-python.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/CCXXXI/template-repo-python/alerts/)
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/CCXXXI/template-repo-python.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/CCXXXI/template-repo-python/context:python)
 [![CodeFactor](https://www.codefactor.io/repository/github/ccxxxi/template-repo-python/badge)](https://www.codefactor.io/repository/github/ccxxxi/template-repo-python)
+[![codecov](https://codecov.io/gh/CCXXXI/template-repo-python/branch/main/graph/badge.svg?token=DVKXhfG5po)](https://codecov.io/gh/CCXXXI/template-repo-python)
 
 ```
 The Zen of Python, by Tim Peters
