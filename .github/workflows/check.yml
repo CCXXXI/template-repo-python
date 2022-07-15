@@ -4,6 +4,10 @@ on:
   push:
   pull_request:
 
+defaults:
+  run:
+    shell: bash -l {0}
+
 jobs:
   coverage:
     runs-on: ubuntu-latest
