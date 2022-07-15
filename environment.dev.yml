@@ -2,5 +2,7 @@
 name: my-env
 channels: [conda-forge]
 dependencies:
+  - python
+  # dev
   - black
   - pytest-cov
