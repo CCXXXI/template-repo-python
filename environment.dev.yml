@@ -3,3 +3,4 @@ name: my-env
 channels: [conda-forge]
 dependencies:
   - black
+  - pytest
