@@ -1,4 +1,4 @@
-from src.main import add
+from main import add
 from pytest import mark
 
 
