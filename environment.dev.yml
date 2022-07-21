@@ -6,3 +6,5 @@ dependencies:
   # dev
   - black
   - pytest-cov
+  - pytest-xdist
+  - memory_profiler
