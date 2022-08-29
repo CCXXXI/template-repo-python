@@ -16,7 +16,7 @@ jobs:
         working-directory: tests
     steps:
       - uses: actions/checkout@v3
-      - uses: mamba-org/provision-with-micromamba@v12
+      - uses: mamba-org/provision-with-micromamba@v13
         with:
           environment-file: "environment.dev.yml"
       - run: pytest -n auto --cov=../ --cov-report xml
