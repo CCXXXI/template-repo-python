@@ -4,7 +4,6 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/ccxxxi/template-repo-python)](https://github.com/CCXXXI/template-repo-python/commits)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-(https://lgtm.com/projects/g/CCXXXI/template-repo-python/context:python)
 [![CodeFactor](https://www.codefactor.io/repository/github/ccxxxi/template-repo-python/badge)](https://www.codefactor.io/repository/github/ccxxxi/template-repo-python)
 [![codecov](https://codecov.io/gh/CCXXXI/template-repo-python/branch/main/graph/badge.svg?token=DVKXhfG5po)](https://codecov.io/gh/CCXXXI/template-repo-python)
 
