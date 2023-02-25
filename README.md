@@ -3,6 +3,7 @@
 [![GitHub license](https://img.shields.io/github/license/ccxxxi/template-repo-python)](LICENSE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ccxxxi/template-repo-python)](https://github.com/CCXXXI/template-repo-python/commits)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![CodeFactor](https://www.codefactor.io/repository/github/ccxxxi/template-repo-python/badge)](https://www.codefactor.io/repository/github/ccxxxi/template-repo-python)
 [![codecov](https://codecov.io/gh/CCXXXI/template-repo-python/branch/main/graph/badge.svg?token=DVKXhfG5po)](https://codecov.io/gh/CCXXXI/template-repo-python)
