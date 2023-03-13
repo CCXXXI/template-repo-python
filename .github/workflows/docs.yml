@@ -20,6 +20,8 @@ jobs:
       - uses: mamba-org/provision-with-micromamba@v15
         with:
           environment-file: "environment.dev.yml"
+          cache-downloads: true
+          cache-env: true
       - run: pdoc src/ -o docs/
       - uses: peaceiris/actions-gh-pages@v3
         with:
