@@ -1,4 +1,4 @@
-# mamba env create -f environment.dev.yml --force
+# conda env create -f environment.dev.yml
 name: my-env
 channels: [conda-forge]
 dependencies:
