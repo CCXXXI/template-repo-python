@@ -15,13 +15,13 @@ jobs:
         shell: bash -l {0}
         working-directory: tests
     steps:
-      - uses: actions/checkout@v7
-      - uses: mamba-org/setup-micromamba@v3
+      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7
+      - uses: mamba-org/setup-micromamba@d7c9bd84e824b79d2af72a2d4196c7f4300d3476 # v3
         with:
           environment-file: "environment.dev.yml"
           cache-downloads: true
           cache-env: true
       - run: pytest -n auto --cov=../ --cov-report xml
-      - uses: codecov/codecov-action@v7
+      - uses: codecov/codecov-action@fb8b3582c8e4def4969c97caa2f19720cb33a72f # v7
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
